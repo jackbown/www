@@ -1,1 +1,4 @@
-##My fires github repository
+## My fires github repository
+```
+echo "Hello World!";
+```
